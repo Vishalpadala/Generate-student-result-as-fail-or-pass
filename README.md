@@ -13,7 +13,7 @@ print("total marks :" ,total_marks)
 
 average_marks = (a+b+c+d)/4  
 
-if average_marks > 140:     
+if average_marks < 140:     
      print("FAIL")  
 
 else:     
