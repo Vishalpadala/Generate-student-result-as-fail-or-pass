@@ -13,7 +13,9 @@ print("total marks :" ,total_marks)
 
 average_marks = (a+b+c+d)/4  
 
-if average_marks < 140:     
+print("average_marks:", average_marks)
+
+if average_marks < 35:     
      print("FAIL")  
 
 else:     
@@ -30,7 +32,9 @@ Enter marks of 3rd Subject:77
 
 Enter marks of 4th Subject:95   
 
-total marks : 359     
+total marks : 359  
+
+average_marks:89.75
 
 PASS.   
 
